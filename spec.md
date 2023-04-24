@@ -2,7 +2,7 @@
 
 **Revised 24 April 2023.**
 
-This document defines the format and structure of a FLOSS file.
+This document defines the format and structure of a FOVSSS file.
 
 _Structure and some content sourced from [GTFS reference.md](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md)_
 
